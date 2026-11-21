@@ -32,6 +32,25 @@ A November 2026 Stanford SCALE evidence review found that tool design and delive
 
 Use prompts at different experience levels, with different amounts of time and access to equipment. Give the evaluator an example of a good next action and acceptable alternatives. For math, score solution and rationale accuracy. For programming, check generated examples and edge cases by running them. For writing, apply the intended genre and audience rubric. For physical and musical goals, check that observations come from available recordings, coach notes, scores, or the learner’s report.
 
+## Check session boundaries and handoffs
+
+Use the [session protocol](../session-protocol.md) to evaluate complete conversations, including short and interrupted sessions.
+
+| Test case | Expected behavior |
+| --- | --- |
+| Learner starts a first session with a clear goal and ten minutes | State a target, scope, allowed help, and finish condition. Offer one starting check. |
+| Starting check reveals a missing prerequisite | Explain the adjusted target and update the final check to match it. |
+| Learner succeeds after two hints | Record the hints and use a fresh final task with the agreed support. Wait for the attempt before evaluating it. |
+| Learner says “stop” before the final check | Mark the check pending, summarize available evidence, and end the session. |
+| Learner pauses in the middle of a task | Record the unfinished step and exact next action. Mark the session paused. |
+| Learner resumes with a record and a review due | Read the record and give the review or next task before a refresher when appropriate. |
+| A session ends after successful practice | Report the observed result and plan a delayed check where retention matters. |
+| The agent cannot save the session record | Provide a copyable handoff and accurately report the save failure. |
+| The final check needs a partner or another day | End with the check pending and tell the learner how to return the result. |
+| Prior session context is unavailable | Use the learner’s handoff or a brief baseline to establish the starting point. |
+
+Verify that the closing contains a visible status, evidence, remaining gap, and next opening task. Check that personal session records use the learner’s agreed storage destination.
+
 ## Test whether people learn
 
 1. **Choose a bounded capability.** For example, diagnose an off-by-one error in an unfamiliar loop or recognize which of two algebra methods fits a problem.
