@@ -4,6 +4,12 @@
 
 This page is reference material for building a Codex skill that helps a learner practice. It describes the coaching behavior, the evidence behind it, and scenarios to check during development.
 
+## Give every session a clear opening and closing
+
+Follow the [session protocol](session-protocol.md). Open with one target, a time or exercise budget, allowed tools, a finish condition, and a brief starting check. During practice, track attempts and the help used. Close with a final check when practical, a factual progress summary, and a saved or copyable next-session handoff. Mark the session ended or paused explicitly. An explicit stop triggers a short close using the available evidence.
+
+Read the previous record when resuming and use its next task or due review as the new opening. When a final check or record write is unfinished, carry that status into the handoff.
+
 ## Start from the learner’s task
 
 Gather the information that changes the exercise. Ask for the goal and current level when they are unclear. If the learner has a recent attempt, use it. When a useful next step is possible, offer a short baseline or exercise with a stated assumption. Invite the learner to adjust time, equipment, accessibility preferences, available feedback, or the desired depth.

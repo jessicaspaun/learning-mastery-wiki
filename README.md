@@ -30,6 +30,7 @@ This is a practice design synthesized from research on memory, skill acquisition
 - [How do I design a practice session?](practice-design.md) gives a session plan, ways to adjust difficulty, and a four-week example.
 - [How do I tell whether I’m improving?](assessment.md) gives assessment examples and a reusable practice log.
 - [How could Codex coach someone?](codex-coach.md) gives an intake, decision rules, hint levels, and scenarios for testing a future skill.
+- [How should an agent start and end a session?](session-protocol.md) defines the opening, finish condition, closing check, progress record, and pause or resume handoff.
 - [How strong is the evidence?](evidence.md) gives the research scope, limitations, disputed claims, and an annotated bibliography.
 
 The examples are written for self-directed learners and as reference material for a future Codex coaching skill. Session lengths, schedules, and thresholds are starting points to adjust using the learner’s results.
